@@ -2,7 +2,7 @@
 
 A modern web application built using React, Ant Design, and React Router for managing user roles and users. This application features a responsive layout, role-based access control, and user management functionalities. It is designed to be an easy-to-use interface for managing users and their respective roles within an organization.
 
-### Live Demo: [View the live application](https://harsh-balwani-vrv.vercel.app/)
+### Live Demo: [View the live application]([https://github.com/Deepakt0405/VRV-Security.git])
 
 ## Features
 
@@ -57,8 +57,8 @@ Follow these steps to get your project up and running:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/HarshBalwanix/Harsh_Balwani_VRV.git
-cd Harsh_Balwani_VRV
+git clone https://github.com/Deepakt0405/VRV-Security.git
+cd VRV-Security
 ```
 
 ### 2. Install Dependencies
